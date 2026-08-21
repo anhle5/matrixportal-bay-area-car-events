@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 111,
+  "count": 113,
   "events": [
     {
       "date": "2026-08-21",
@@ -779,6 +779,20 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/san-mateo-cars-and-coffee-co-hosted-by-autovino-2nd-sunday-monthly"
+    },
+    {
+      "date": "2026-12-19",
+      "name": "Pre Stage",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/pre-stage-december-19-2026"
+    },
+    {
+      "date": "2026-12-19",
+      "name": "Pre Stage At Marin County Civic Center",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
     }
   ]
 }
