@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 116,
+  "count": 114,
   "events": [
-    {
-      "date": "2026-08-22",
-      "name": "Cars & Coffee Livermore",
-      "place": "Livermore",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
-    },
-    {
-      "date": "2026-08-22",
-      "name": "Goodguys 39th West Coast Nationals",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/goodguys-39th-west-coast-nationals-aug-21-23-2026"
-    },
     {
       "date": "2026-08-23",
       "name": "Goodguys 39th West Coast Nationals",
