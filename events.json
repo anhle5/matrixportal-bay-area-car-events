@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 114,
+  "count": 116,
   "events": [
-    {
-      "date": "2026-08-23",
-      "name": "Goodguys 39th West Coast Nationals",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/goodguys-39th-west-coast-nationals-aug-21-23-2026"
-    },
-    {
-      "date": "2026-08-23",
-      "name": "Le Pit Club Moraga Pit Stop",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
-    },
     {
       "date": "2026-08-27",
       "name": "Cars At The Course",
@@ -114,6 +100,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2026-09-06",
+      "name": "Marin County Cars & Coffee",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/marin-county-cars-and-coffee-1st-sunday-monthly"
     },
     {
       "date": "2026-09-06",
@@ -355,6 +348,13 @@
     },
     {
       "date": "2026-10-04",
+      "name": "Marin County Cars & Coffee",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/marin-county-cars-and-coffee-1st-sunday-monthly"
+    },
+    {
+      "date": "2026-10-04",
       "name": "Willow Glen Cars & Coffee PCNC",
       "place": "San Jose",
       "source": "bayareamotorevents",
@@ -537,6 +537,13 @@
     },
     {
       "date": "2026-11-01",
+      "name": "Marin County Cars & Coffee",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/marin-county-cars-and-coffee-1st-sunday-monthly"
+    },
+    {
+      "date": "2026-11-01",
       "name": "Willow Glen Cars & Coffee PCNC",
       "place": "San Jose",
       "source": "bayareamotorevents",
@@ -716,6 +723,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2026-12-06",
+      "name": "Marin County Cars & Coffee",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/marin-county-cars-and-coffee-1st-sunday-monthly"
     },
     {
       "date": "2026-12-06",
