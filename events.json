@@ -1,28 +1,21 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-28",
   "source": "https://bayareamotorevents.com/sitemap.xml",
   "count": 116,
   "events": [
-    {
-      "date": "2026-08-27",
-      "name": "Cars At The Course",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-at-the-course-last-thursday-monthl"
-    },
-    {
-      "date": "2026-08-27",
-      "name": "PCNC Monthly Meeting",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
-    },
     {
       "date": "2026-08-29",
       "name": "Oakland Baller S Game With Pregame Car Show",
       "place": "Oakland",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/oakland-baller-s-game-with-pregame-car-show-aug-29-2026"
+    },
+    {
+      "date": "2026-08-29",
+      "name": "Porsche Club Of America Diablo Region Porsches &",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/porsche-club-of-america-diablo-region-porsches-and-pastries-aug-29-2026"
     },
     {
       "date": "2026-08-30",
@@ -814,6 +807,13 @@
       "place": "Morgan Hill",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/morgan-hill-exotic-cars-and-coffee-3rd-sunday-monthly"
+    },
+    {
+      "date": "2026-12-26",
+      "name": "Cars & Coffee Livermore",
+      "place": "Livermore",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
     }
   ]
 }
