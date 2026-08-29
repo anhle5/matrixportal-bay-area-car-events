@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 116,
+  "count": 118,
   "events": [
     {
       "date": "2026-08-29",
@@ -814,6 +814,20 @@
       "place": "Livermore",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
+    },
+    {
+      "date": "2026-12-27",
+      "name": "Le Pit Club Moraga Pit Stop",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2026-12-27",
+      "name": "Loma Mar Motor Gathering",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly"
     }
   ]
 }
