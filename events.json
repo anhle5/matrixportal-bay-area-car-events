@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 114,
+  "count": 118,
   "events": [
     {
       "date": "2026-09-05",
@@ -145,13 +145,6 @@
     },
     {
       "date": "2026-09-19",
-      "name": "Euros At The Studio",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/euros-at-the-studio-sept-19-2026"
-    },
-    {
-      "date": "2026-09-19",
       "name": "Pre Stage",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -233,6 +226,13 @@
       "place": "Livermore",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
+    },
+    {
+      "date": "2026-09-26",
+      "name": "San Mateo End Of Summer Cruise 2026",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/san-mateo-end-of-summer-cruise-2026-sep-26-2026"
     },
     {
       "date": "2026-09-27",
@@ -439,10 +439,24 @@
     },
     {
       "date": "2026-10-24",
+      "name": "Belmont 100th Birthday Celebration Car Parade & ",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/belmont-100th-birthday-celebration-car-parade-and-show-oct-24-2026"
+    },
+    {
+      "date": "2026-10-24",
       "name": "Cars & Coffee Livermore",
       "place": "Livermore",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Nfl Alumni Norcal Car Show",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/nfl-alumni-norcal-car-show-october-24-2026"
     },
     {
       "date": "2026-10-25",
@@ -800,6 +814,20 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly"
+    },
+    {
+      "date": "2026-12-31",
+      "name": "Cars At The Course",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-at-the-course-last-thursday-monthl"
+    },
+    {
+      "date": "2026-12-31",
+      "name": "PCNC Monthly Meeting",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
     }
   ]
 }
