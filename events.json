@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 118,
+  "count": 124,
   "events": [
     {
       "date": "2026-09-05",
@@ -9,6 +9,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/biscotti-and-cars-sep-5-2026"
+    },
+    {
+      "date": "2026-09-05",
+      "name": "British Car Show At The Scottish Highland Gather",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/british-car-show-at-the-scottish-highland-gathering-and-games-sep-5-6-2026"
     },
     {
       "date": "2026-09-05",
@@ -30,6 +37,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/31st-annual-pre-war-packard-and-classic-car-swap-meet-september-6-2026"
+    },
+    {
+      "date": "2026-09-06",
+      "name": "British Car Show At The Scottish Highland Gather",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/british-car-show-at-the-scottish-highland-gathering-and-games-sep-5-6-2026"
     },
     {
       "date": "2026-09-06",
@@ -145,6 +159,13 @@
     },
     {
       "date": "2026-09-19",
+      "name": "26th Annual Garlic City Car Show & Harvest Festi",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/26th-annual-garlic-city-car-show-and-harvest-festival-sep-19-2026"
+    },
+    {
+      "date": "2026-09-19",
       "name": "Pre Stage",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -177,6 +198,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-kids-and-coffee-the-cobra-experience-3rd-sunday-monthly"
+    },
+    {
+      "date": "2026-09-20",
+      "name": "Corvette Spectacular 2026",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/corvette-spectacular-2026-sep-20-2026"
     },
     {
       "date": "2026-09-20",
@@ -233,6 +261,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/san-mateo-end-of-summer-cruise-2026-sep-26-2026"
+    },
+    {
+      "date": "2026-09-26",
+      "name": "V Dub Vibrations Car Show & Reggae Concert",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/v-dub-vibrations-car-show-and-reggae-concert-sep-26-2026"
     },
     {
       "date": "2026-09-27",
@@ -408,6 +443,13 @@
       "place": "Marin",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
+    },
+    {
+      "date": "2026-10-18",
+      "name": "All British Motor Show Blackhawk Museum",
+      "place": "Danville",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/all-british-motor-show-blackhawk-museum-oct-18-2026"
     },
     {
       "date": "2026-10-18",
