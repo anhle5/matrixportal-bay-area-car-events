@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 124,
+  "count": 125,
   "events": [
     {
       "date": "2026-09-05",
@@ -870,6 +870,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
+    },
+    {
+      "date": "2027-01-02",
+      "name": "Mountain View Cars & Coffee",
+      "place": "Mountain View",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/mountain-view-cars-and-coffee-first-saturday-of-ev"
     }
   ]
 }
