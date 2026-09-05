@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 125,
+  "count": 131,
   "events": [
     {
       "date": "2026-09-05",
@@ -877,6 +877,48 @@
       "place": "Mountain View",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/mountain-view-cars-and-coffee-first-saturday-of-ev"
+    },
+    {
+      "date": "2027-01-03",
+      "name": "Cars & Coffee SF At Fort Mason",
+      "place": "SF",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-sf-at-fort-mason-1st-sunday-monthly"
+    },
+    {
+      "date": "2027-01-03",
+      "name": "Cars & Coffee San Francisco At Pier 32",
+      "place": "SF",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-francisco-at-pier-32-1st-sunday-monthly"
+    },
+    {
+      "date": "2027-01-03",
+      "name": "Gilroy Cars & Coffee",
+      "place": "Gilroy",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/gilroy-cars-and-coffee-1st-sunday-of-the-mo"
+    },
+    {
+      "date": "2027-01-03",
+      "name": "Le Pit Club Moraga Pit Stop",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2027-01-03",
+      "name": "Marin County Cars & Coffee",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/marin-county-cars-and-coffee-1st-sunday-monthly"
+    },
+    {
+      "date": "2027-01-03",
+      "name": "Willow Glen Cars & Coffee PCNC",
+      "place": "San Jose",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/willow-glen-cars-and-coffee-pcnc-1st-sunday-monthly"
     }
   ]
 }
