@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 118,
+  "count": 129,
   "events": [
     {
       "date": "2026-09-12",
@@ -40,6 +40,13 @@
     },
     {
       "date": "2026-09-13",
+      "name": "Goombah S Car Club 18th Annual Classic Car Show ",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/goombah-s-car-club-18th-annual-classic-car-show-and-food-drive-sep-13-2026"
+    },
+    {
+      "date": "2026-09-13",
       "name": "Le Pit Club Moraga Pit Stop",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -72,6 +79,20 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/26th-annual-garlic-city-car-show-and-harvest-festival-sep-19-2026"
+    },
+    {
+      "date": "2026-09-19",
+      "name": "2nd Annual Oak Hill Memorial Park Celebrating Li",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/2nd-annual-oak-hill-memorial-park-celebrating-life-car-show-sep-19-2026"
+    },
+    {
+      "date": "2026-09-19",
+      "name": "Cars & Coffee San Jose",
+      "place": "San Jose",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-jose-3rd-saturday-monthly"
     },
     {
       "date": "2026-09-19",
@@ -166,6 +187,13 @@
     },
     {
       "date": "2026-09-26",
+      "name": "Exotic Car Show At Hiller Aviation Museum",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/exotic-car-show-at-hiller-aviation-museum-september-26-2026"
+    },
+    {
+      "date": "2026-09-26",
       "name": "San Mateo End Of Summer Cruise 2026",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -208,6 +236,13 @@
     },
     {
       "date": "2026-10-03",
+      "name": "Allegiance Super Show",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/allegiance-super-show-oct-3-2026"
+    },
+    {
+      "date": "2026-10-03",
       "name": "Biscotti & Cars",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -221,11 +256,25 @@
       "url": "https://bayareamotorevents.com/events/mountain-view-cars-and-coffee-first-saturday-of-ev"
     },
     {
+      "date": "2026-10-03",
+      "name": "Rotary Club Of West Marin Annual Classic Car Sho",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/rotary-club-of-west-marin-annual-classic-car-show-oct-3-2026"
+    },
+    {
       "date": "2026-10-04",
       "name": "9th Annual Little Italy San Jose Italian Festiva",
       "place": "San Jose",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/9th-annual-little-italy-san-jose-italian-festival-and-car-show-oct-4-2026"
+    },
+    {
+      "date": "2026-10-04",
+      "name": "Built To Beat Cancer Car & Truck Show",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/built-to-beat-cancer-car-and-truck-show-oct-4-2026"
     },
     {
       "date": "2026-10-04",
@@ -313,6 +362,13 @@
     },
     {
       "date": "2026-10-11",
+      "name": "Cruisin Hooters By Cruisin North Car Club",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cruisin-hooters-by-cruisin-north-car-club-oct-11-2026"
+    },
+    {
+      "date": "2026-10-11",
       "name": "Le Pit Club Moraga Pit Stop",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -338,6 +394,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/2026-hcc-and-st-matthias-car-show-oct-17-2026"
+    },
+    {
+      "date": "2026-10-17",
+      "name": "Cars & Coffee San Jose",
+      "place": "San Jose",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-jose-3rd-saturday-monthly"
     },
     {
       "date": "2026-10-17",
@@ -565,6 +628,13 @@
     },
     {
       "date": "2026-11-21",
+      "name": "Cars & Coffee San Jose",
+      "place": "San Jose",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-jose-3rd-saturday-monthly"
+    },
+    {
+      "date": "2026-11-21",
       "name": "Pre Stage",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -702,6 +772,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/san-mateo-cars-and-coffee-co-hosted-by-autovino-2nd-sunday-monthly"
+    },
+    {
+      "date": "2026-12-19",
+      "name": "Cars & Coffee San Jose",
+      "place": "San Jose",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-jose-3rd-saturday-monthly"
     },
     {
       "date": "2026-12-19",
