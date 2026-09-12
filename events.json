@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 129,
+  "count": 133,
   "events": [
     {
       "date": "2026-09-12",
@@ -107,13 +107,6 @@
       "place": "Marin",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
-    },
-    {
-      "date": "2026-09-19",
-      "name": "Svmc Cars & Coffee September 19",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/svmc-cars-and-coffee-september-19-sep-19-2026"
     },
     {
       "date": "2026-09-20",
@@ -905,6 +898,41 @@
       "place": "San Jose",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/willow-glen-cars-and-coffee-pcnc-1st-sunday-monthly"
+    },
+    {
+      "date": "2027-01-10",
+      "name": "Cars & Coffee Peninsula Redwood City",
+      "place": "Redwood City",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every"
+    },
+    {
+      "date": "2027-01-10",
+      "name": "Classics & Coffee Fremont",
+      "place": "Fremont",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/classics-and-coffee-fremont-2nd-sunday-of-the-mo"
+    },
+    {
+      "date": "2027-01-10",
+      "name": "Le Pit Club Moraga Pit Stop",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2027-01-10",
+      "name": "Peninsula Cars & Coffee",
+      "place": "Peninsula",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/peninsula-cars-and-coffee-2nd-sunday-monthly"
+    },
+    {
+      "date": "2027-01-10",
+      "name": "San Mateo Cars & Coffee Co Hosted By Autovino",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/san-mateo-cars-and-coffee-co-hosted-by-autovino-2nd-sunday-monthly"
     }
   ]
 }
