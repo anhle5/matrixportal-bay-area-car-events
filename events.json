@@ -1,64 +1,8 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 131,
+  "count": 123,
   "events": [
-    {
-      "date": "2026-09-13",
-      "name": "5th Annual Fast Eddy Granados Memorial Car Show",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/5th-annual-fast-eddy-granados-memorial-car-show-sep-13-2026"
-    },
-    {
-      "date": "2026-09-13",
-      "name": "Cars & Coffee Peninsula Redwood City",
-      "place": "Redwood City",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every"
-    },
-    {
-      "date": "2026-09-13",
-      "name": "Classics & Coffee Fremont",
-      "place": "Fremont",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/classics-and-coffee-fremont-2nd-sunday-of-the-mo"
-    },
-    {
-      "date": "2026-09-13",
-      "name": "Goombah S Car Club 18th Annual Classic Car Show ",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/goombah-s-car-club-18th-annual-classic-car-show-and-food-drive-sep-13-2026"
-    },
-    {
-      "date": "2026-09-13",
-      "name": "Le Pit Club Moraga Pit Stop",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
-    },
-    {
-      "date": "2026-09-13",
-      "name": "Peninsula Cars & Coffee",
-      "place": "Peninsula",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/peninsula-cars-and-coffee-2nd-sunday-monthly"
-    },
-    {
-      "date": "2026-09-13",
-      "name": "San Mateo Cars & Coffee Co Hosted By Autovino",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/san-mateo-cars-and-coffee-co-hosted-by-autovino-2nd-sunday-monthly"
-    },
-    {
-      "date": "2026-09-13",
-      "name": "Streetlow Magazine El Grito Car Show",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/streetlow-magazine-el-grito-car-show-sep-13-2026"
-    },
     {
       "date": "2026-09-19",
       "name": "26th Annual Garlic City Car Show & Harvest Festi",
