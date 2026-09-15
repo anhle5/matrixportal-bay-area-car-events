@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 123,
+  "count": 130,
   "events": [
     {
       "date": "2026-09-19",
@@ -95,6 +95,13 @@
       "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
     },
     {
+      "date": "2026-09-25",
+      "name": "Sharkfest West 2026",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/sharkfest-west-2026-september-25-27-2026"
+    },
+    {
       "date": "2026-09-26",
       "name": "Abraham Lincoln High School Annual Car Show",
       "place": "Bay Area",
@@ -121,6 +128,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/san-mateo-end-of-summer-cruise-2026-sep-26-2026"
+    },
+    {
+      "date": "2026-09-26",
+      "name": "Sharkfest West 2026",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/sharkfest-west-2026-september-25-27-2026"
     },
     {
       "date": "2026-09-26",
@@ -152,10 +166,24 @@
     },
     {
       "date": "2026-09-27",
+      "name": "Sharkfest West 2026",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/sharkfest-west-2026-september-25-27-2026"
+    },
+    {
+      "date": "2026-09-27",
       "name": "The Distinguished Gentleman S Drive San Francisc",
       "place": "SF",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/the-distinguished-gentleman-s-drive-san-francisco-bay-area-sep-27-2026"
+    },
+    {
+      "date": "2026-10-02",
+      "name": "Mission Foods Racing America Laguna Seca",
+      "place": "Laguna Seca",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/mission-foods-racing-america-laguna-seca-october-2-4-2026"
     },
     {
       "date": "2026-10-03",
@@ -170,6 +198,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/biscotti-and-cars-oct-3-2026"
+    },
+    {
+      "date": "2026-10-03",
+      "name": "Mission Foods Racing America Laguna Seca",
+      "place": "Laguna Seca",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/mission-foods-racing-america-laguna-seca-october-2-4-2026"
     },
     {
       "date": "2026-10-03",
@@ -236,6 +271,13 @@
     },
     {
       "date": "2026-10-04",
+      "name": "Mission Foods Racing America Laguna Seca",
+      "place": "Laguna Seca",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/mission-foods-racing-america-laguna-seca-october-2-4-2026"
+    },
+    {
+      "date": "2026-10-04",
       "name": "Willow Glen Cars & Coffee PCNC",
       "place": "San Jose",
       "source": "bayareamotorevents",
@@ -247,6 +289,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/30th-annual-nostalgia-days-novato-cruise-and-car-show-oct-10-2026"
+    },
+    {
+      "date": "2026-10-10",
+      "name": "Breakfast Club Rally Bcr 10 10 2026",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/breakfast-club-rally-bcr-10-10-2026-october-10-2026"
     },
     {
       "date": "2026-10-10",
