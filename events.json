@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 130,
+  "count": 135,
   "events": [
     {
       "date": "2026-09-19",
@@ -23,6 +23,13 @@
       "place": "San Jose",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-jose-3rd-saturday-monthly"
+    },
+    {
+      "date": "2026-09-19",
+      "name": "King Of The Streets Lowrider Parade",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/king-of-the-streets-lowrider-parade-september-19-2026"
     },
     {
       "date": "2026-09-19",
@@ -537,6 +544,13 @@
     },
     {
       "date": "2026-11-08",
+      "name": "Cruisin Hooters By Cruisin North Car Club",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cruisin-hooters-by-cruisin-north-car-club-nov-8-2026"
+    },
+    {
+      "date": "2026-11-08",
       "name": "Le Pit Club Moraga Pit Stop",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -681,6 +695,13 @@
       "place": "SF",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-francisco-at-pier-32-1st-sunday-monthly"
+    },
+    {
+      "date": "2026-12-06",
+      "name": "Cruisin Hooters Toys For Tots Toy Drive",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cruisin-hooters-toys-for-tots-toy-drive-dec-6-2026"
     },
     {
       "date": "2026-12-06",
@@ -912,6 +933,20 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/san-mateo-cars-and-coffee-co-hosted-by-autovino-2nd-sunday-monthly"
+    },
+    {
+      "date": "2027-01-16",
+      "name": "Cars & Coffee San Jose",
+      "place": "San Jose",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-jose-3rd-saturday-monthly"
+    },
+    {
+      "date": "2027-01-16",
+      "name": "Pre Stage At Marin County Civic Center",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
     }
   ]
 }
