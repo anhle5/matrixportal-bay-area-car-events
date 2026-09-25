@@ -1,22 +1,8 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 125,
+  "count": 124,
   "events": [
-    {
-      "date": "2026-09-24",
-      "name": "Cars At The Course",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-at-the-course-last-thursday-monthl"
-    },
-    {
-      "date": "2026-09-24",
-      "name": "PCNC Monthly Meeting",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
-    },
     {
       "date": "2026-09-25",
       "name": "Sharkfest West 2026",
@@ -43,7 +29,7 @@
       "name": "Exotic Car Show At Hiller Aviation Museum",
       "place": "Bay Area",
       "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/exotic-car-show-at-hiller-aviation-museum-september-26-2026"
+      "url": "https://bayareamotorevents.com/events/exotic-car-show-at-hiller-aviation-museum-sep-26-2026"
     },
     {
       "date": "2026-09-26",
@@ -250,10 +236,10 @@
     },
     {
       "date": "2026-10-11",
-      "name": "Cars & Coffee Peninsula Redwood City",
+      "name": "Cars & Coffee Peninsula Redwood City 2nd Sunday ",
       "place": "Redwood City",
       "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every"
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every-"
     },
     {
       "date": "2026-10-11",
@@ -453,10 +439,10 @@
     },
     {
       "date": "2026-11-08",
-      "name": "Cars & Coffee Peninsula Redwood City",
+      "name": "Cars & Coffee Peninsula Redwood City 2nd Sunday ",
       "place": "Redwood City",
       "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every"
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every-"
     },
     {
       "date": "2026-11-08",
@@ -649,10 +635,10 @@
     },
     {
       "date": "2026-12-13",
-      "name": "Cars & Coffee Peninsula Redwood City",
+      "name": "Cars & Coffee Peninsula Redwood City 2nd Sunday ",
       "place": "Redwood City",
       "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every"
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every-"
     },
     {
       "date": "2026-12-13",
@@ -810,10 +796,10 @@
     },
     {
       "date": "2027-01-10",
-      "name": "Cars & Coffee Peninsula Redwood City",
+      "name": "Cars & Coffee Peninsula Redwood City 2nd Sunday ",
       "place": "Redwood City",
       "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every"
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every-"
     },
     {
       "date": "2027-01-10",
@@ -877,6 +863,13 @@
       "place": "Morgan Hill",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/morgan-hill-exotic-cars-and-coffee-3rd-sunday-monthly"
+    },
+    {
+      "date": "2027-01-23",
+      "name": "Cars & Coffee Livermore",
+      "place": "Livermore",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
     }
   ]
 }
