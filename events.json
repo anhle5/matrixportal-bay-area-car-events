@@ -1,15 +1,8 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "source": "https://bayareamotorevents.com/sitemap.xml",
   "count": 124,
   "events": [
-    {
-      "date": "2026-09-25",
-      "name": "Sharkfest West 2026",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/sharkfest-west-2026-september-25-27-2026"
-    },
     {
       "date": "2026-09-26",
       "name": "Abraham Lincoln High School Annual Car Show",
@@ -870,6 +863,13 @@
       "place": "Livermore",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
+    },
+    {
+      "date": "2027-01-24",
+      "name": "Le Pit Club Moraga Pit Stop",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
     }
   ]
 }
