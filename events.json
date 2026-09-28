@@ -1,43 +1,8 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 118,
+  "count": 113,
   "events": [
-    {
-      "date": "2026-09-27",
-      "name": "Le Pit Club Moraga Pit Stop",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
-    },
-    {
-      "date": "2026-09-27",
-      "name": "Loma Mar Motor Gathering",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly"
-    },
-    {
-      "date": "2026-09-27",
-      "name": "Nostalgia Day Car Show",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/nostalgia-day-car-show-sep-27-2026"
-    },
-    {
-      "date": "2026-09-27",
-      "name": "Sharkfest West 2026",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/sharkfest-west-2026-september-25-27-2026"
-    },
-    {
-      "date": "2026-09-27",
-      "name": "The Distinguished Gentleman S Drive San Francisc",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/the-distinguished-gentleman-s-drive-san-francisco-bay-area-sep-27-2026"
-    },
     {
       "date": "2026-10-02",
       "name": "Mission Foods Racing America Laguna Seca",
