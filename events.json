@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 113,
+  "count": 119,
   "events": [
     {
       "date": "2026-10-02",
@@ -75,6 +75,13 @@
     },
     {
       "date": "2026-10-04",
+      "name": "Castro Valley To Niles Cruise & Car Show",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/castro-valley-to-niles-cruise-and-car-show-october-4-2026"
+    },
+    {
+      "date": "2026-10-04",
       "name": "Gilroy Cars & Coffee",
       "place": "Gilroy",
       "source": "bayareamotorevents",
@@ -100,6 +107,13 @@
       "place": "Laguna Seca",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/mission-foods-racing-america-laguna-seca-october-2-4-2026"
+    },
+    {
+      "date": "2026-10-04",
+      "name": "Porsches On Main",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/porsches-on-main-october-4-2026"
     },
     {
       "date": "2026-10-04",
@@ -194,6 +208,13 @@
     },
     {
       "date": "2026-10-17",
+      "name": "38th Annual SF Old Car Picnic",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/38th-annual-sf-old-car-picnic-october-17-2026"
+    },
+    {
+      "date": "2026-10-17",
       "name": "Cars & Coffee San Jose",
       "place": "San Jose",
       "source": "bayareamotorevents",
@@ -275,6 +296,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/nfl-alumni-norcal-car-show-october-24-2026"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Radwood Norcal",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/radwood-norcal-october-24-2026"
     },
     {
       "date": "2026-10-25",
@@ -793,6 +821,20 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2027-01-28",
+      "name": "Cars At The Course",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-at-the-course-last-thursday-monthl"
+    },
+    {
+      "date": "2027-01-28",
+      "name": "PCNC Monthly Meeting",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
     }
   ]
 }
