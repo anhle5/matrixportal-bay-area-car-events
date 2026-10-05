@@ -1,85 +1,8 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 115,
+  "count": 95,
   "events": [
-    {
-      "date": "2026-10-04",
-      "name": "9th Annual Little Italy San Jose Italian Festiva",
-      "place": "San Jose",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/9th-annual-little-italy-san-jose-italian-festival-and-car-show-oct-4-2026"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Built To Beat Cancer Car & Truck Show",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/built-to-beat-cancer-car-and-truck-show-oct-4-2026"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Cars & Coffee SF At Fort Mason",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-sf-at-fort-mason-1st-sunday-monthly"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Cars & Coffee San Francisco At Pier 32",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-francisco-at-pier-32-1st-sunday-monthly"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Castro Valley To Niles Cruise & Car Show",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/castro-valley-to-niles-cruise-and-car-show-october-4-2026"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Gilroy Cars & Coffee",
-      "place": "Gilroy",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/gilroy-cars-and-coffee-1st-sunday-of-the-mo"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Le Pit Club Moraga Pit Stop",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Marin County Cars & Coffee",
-      "place": "Marin",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/marin-county-cars-and-coffee-1st-sunday-monthly"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Mission Foods Racing America Laguna Seca",
-      "place": "Laguna Seca",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/mission-foods-racing-america-laguna-seca-october-2-4-2026"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Porsches On Main",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/porsches-on-main-october-4-2026"
-    },
-    {
-      "date": "2026-10-04",
-      "name": "Willow Glen Cars & Coffee PCNC",
-      "place": "San Jose",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/willow-glen-cars-and-coffee-pcnc-1st-sunday-monthly"
-    },
     {
       "date": "2026-10-10",
       "name": "30th Annual Nostalgia Days Novato Cruise & Car S",
@@ -128,13 +51,6 @@
       "place": "Redwood City",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every-"
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Classics & Coffee Fremont",
-      "place": "Fremont",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/classics-and-coffee-fremont-2nd-sunday-of-the-mo"
     },
     {
       "date": "2026-10-11",
@@ -191,6 +107,13 @@
       "place": "Marin",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
+    },
+    {
+      "date": "2026-10-17",
+      "name": "Slo Drive 2026",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/slo-drive-2026-october-17-2026"
     },
     {
       "date": "2026-10-18",
@@ -292,20 +215,6 @@
     },
     {
       "date": "2026-11-01",
-      "name": "Cars & Coffee SF At Fort Mason",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-sf-at-fort-mason-1st-sunday-monthly"
-    },
-    {
-      "date": "2026-11-01",
-      "name": "Cars & Coffee San Francisco At Pier 32",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-francisco-at-pier-32-1st-sunday-monthly"
-    },
-    {
-      "date": "2026-11-01",
       "name": "Gilroy Cars & Coffee",
       "place": "Gilroy",
       "source": "bayareamotorevents",
@@ -345,13 +254,6 @@
       "place": "Redwood City",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every-"
-    },
-    {
-      "date": "2026-11-08",
-      "name": "Classics & Coffee Fremont",
-      "place": "Fremont",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/classics-and-coffee-fremont-2nd-sunday-of-the-mo"
     },
     {
       "date": "2026-11-08",
@@ -488,20 +390,6 @@
     },
     {
       "date": "2026-12-06",
-      "name": "Cars & Coffee SF At Fort Mason",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-sf-at-fort-mason-1st-sunday-monthly"
-    },
-    {
-      "date": "2026-12-06",
-      "name": "Cars & Coffee San Francisco At Pier 32",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-francisco-at-pier-32-1st-sunday-monthly"
-    },
-    {
-      "date": "2026-12-06",
       "name": "Cruisin Hooters Toys For Tots Toy Drive",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -541,13 +429,6 @@
       "place": "Redwood City",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every-"
-    },
-    {
-      "date": "2026-12-13",
-      "name": "Classics & Coffee Fremont",
-      "place": "Fremont",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/classics-and-coffee-fremont-2nd-sunday-of-the-mo"
     },
     {
       "date": "2026-12-13",
@@ -656,20 +537,6 @@
     },
     {
       "date": "2027-01-03",
-      "name": "Cars & Coffee SF At Fort Mason",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-sf-at-fort-mason-1st-sunday-monthly"
-    },
-    {
-      "date": "2027-01-03",
-      "name": "Cars & Coffee San Francisco At Pier 32",
-      "place": "SF",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-francisco-at-pier-32-1st-sunday-monthly"
-    },
-    {
-      "date": "2027-01-03",
       "name": "Gilroy Cars & Coffee",
       "place": "Gilroy",
       "source": "bayareamotorevents",
@@ -702,13 +569,6 @@
       "place": "Redwood City",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-peninsula-redwood-city-2nd-sunday-of-every-"
-    },
-    {
-      "date": "2027-01-10",
-      "name": "Classics & Coffee Fremont",
-      "place": "Fremont",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/classics-and-coffee-fremont-2nd-sunday-of-the-mo"
     },
     {
       "date": "2027-01-10",
