@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 95,
+  "count": 96,
   "events": [
     {
       "date": "2026-10-10",
@@ -667,6 +667,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly"
+    },
+    {
+      "date": "2027-02-06",
+      "name": "Mountain View Cars & Coffee",
+      "place": "Mountain View",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/mountain-view-cars-and-coffee-first-saturday-of-ev"
     }
   ]
 }
