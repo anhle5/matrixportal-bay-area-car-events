@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 81,
+  "count": 98,
   "events": [
     {
       "date": "2026-10-24",
@@ -19,6 +19,13 @@
     },
     {
       "date": "2026-10-24",
+      "name": "Hot Rods 4 Paws",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/hot-rods-4-paws-october-24-2026"
+    },
+    {
+      "date": "2026-10-24",
       "name": "Nfl Alumni Norcal Car Show",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -30,6 +37,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/radwood-norcal-october-24-2026"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Bmw Cca Halloween Driving Tour",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/bmw-cca-halloween-driving-tour-october-25-2026"
     },
     {
       "date": "2026-10-25",
@@ -58,6 +72,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
+    },
+    {
+      "date": "2026-11-01",
+      "name": "Ggc Cars & Coffee Moss Landing November",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/ggc-cars-and-coffee-moss-landing-november-november-1-2026"
     },
     {
       "date": "2026-11-01",
@@ -95,6 +116,13 @@
       "url": "https://bayareamotorevents.com/events/mountain-view-cars-and-coffee-first-saturday-of-ev"
     },
     {
+      "date": "2026-11-07",
+      "name": "San Jose Classic Chevy Club 39th Annual Car Show",
+      "place": "San Jose",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/san-jose-classic-chevy-club-39th-annual-car-show-and-toy-drive-november-7-2026"
+    },
+    {
       "date": "2026-11-08",
       "name": "Cars & Coffee Peninsula Redwood City 2nd Sunday ",
       "place": "Redwood City",
@@ -121,6 +149,27 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/san-mateo-cars-and-coffee-co-hosted-by-autovino-2nd-sunday-monthly"
+    },
+    {
+      "date": "2026-11-14",
+      "name": "Ggc Cars & Coffee North Bay November",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/ggc-cars-and-coffee-north-bay-november-november-14-2026"
+    },
+    {
+      "date": "2026-11-14",
+      "name": "Ggc Cars & Coffee San Francisco November",
+      "place": "SF",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/ggc-cars-and-coffee-san-francisco-november-november-14-2026"
+    },
+    {
+      "date": "2026-11-14",
+      "name": "Ggc South Bay Driving Tour",
+      "place": "South Bay",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/ggc-south-bay-driving-tour-november-14-2026"
     },
     {
       "date": "2026-11-14",
@@ -173,6 +222,13 @@
     },
     {
       "date": "2026-11-21",
+      "name": "Neue Klasse & Kaffee November",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/neue-klasse-and-kaffee-november-november-21-2026"
+    },
+    {
+      "date": "2026-11-21",
       "name": "Pre Stage",
       "place": "Bay Area",
       "source": "bayareamotorevents",
@@ -184,6 +240,13 @@
       "place": "Marin",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
+    },
+    {
+      "date": "2026-11-21",
+      "name": "United Motorcycle Clubs Of Alameda County Toy Dr",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/united-motorcycle-clubs-of-alameda-county-toy-drive-november-21-2026"
     },
     {
       "date": "2026-11-22",
@@ -229,6 +292,13 @@
     },
     {
       "date": "2026-12-05",
+      "name": "Laguna Seca Cars & Coffee Season Finale Toys For",
+      "place": "Laguna Seca",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/laguna-seca-cars-and-coffee-season-finale-toys-for-tots-december-5-2026"
+    },
+    {
+      "date": "2026-12-05",
       "name": "Mountain View Cars & Coffee",
       "place": "Mountain View",
       "source": "bayareamotorevents",
@@ -240,6 +310,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cruisin-hooters-toys-for-tots-toy-drive-dec-6-2026"
+    },
+    {
+      "date": "2026-12-06",
+      "name": "Ggc Cars & Coffee Moss Landing December",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/ggc-cars-and-coffee-moss-landing-december-december-6-2026"
     },
     {
       "date": "2026-12-06",
@@ -270,6 +347,20 @@
       "url": "https://bayareamotorevents.com/events/willow-glen-cars-and-coffee-pcnc-1st-sunday-monthly"
     },
     {
+      "date": "2026-12-12",
+      "name": "Ggc Bmws & Bagels San Francisco",
+      "place": "SF",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/ggc-bmws-and-bagels-san-francisco-december-12-2026"
+    },
+    {
+      "date": "2026-12-12",
+      "name": "Ggc Cars & Coffee North Bay December",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/ggc-cars-and-coffee-north-bay-december-december-12-2026"
+    },
+    {
       "date": "2026-12-13",
       "name": "Cars & Coffee Peninsula Redwood City 2nd Sunday ",
       "place": "Redwood City",
@@ -296,6 +387,13 @@
       "place": "San Jose",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-jose-3rd-saturday-monthly"
+    },
+    {
+      "date": "2026-12-19",
+      "name": "Neue Klasse & Kaffee December",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/neue-klasse-and-kaffee-december-december-19-2026"
     },
     {
       "date": "2026-12-19",
@@ -445,6 +543,13 @@
       "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
     },
     {
+      "date": "2027-01-16",
+      "name": "Sonoma Raceway Winter Jam 2027",
+      "place": "Sonoma",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/sonoma-raceway-winter-jam-2027-january-16-17-2027"
+    },
+    {
       "date": "2027-01-17",
       "name": "Cars & Cabernet At Autovino",
       "place": "Bay Area",
@@ -471,6 +576,13 @@
       "place": "Morgan Hill",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/morgan-hill-exotic-cars-and-coffee-3rd-sunday-monthly"
+    },
+    {
+      "date": "2027-01-17",
+      "name": "Sonoma Raceway Winter Jam 2027",
+      "place": "Sonoma",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/sonoma-raceway-winter-jam-2027-january-16-17-2027"
     },
     {
       "date": "2027-01-23",
@@ -569,6 +681,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/san-mateo-cars-and-coffee-co-hosted-by-autovino-2nd-sunday-monthly"
+    },
+    {
+      "date": "2027-02-19",
+      "name": "Silicon Valley Auto Show 2027",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/silicon-valley-auto-show-2027-february-19-21-2027"
     }
   ]
 }
