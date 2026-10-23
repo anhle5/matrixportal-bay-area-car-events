@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 98,
+  "count": 101,
   "events": [
     {
       "date": "2026-10-24",
@@ -684,6 +684,27 @@
     },
     {
       "date": "2027-02-19",
+      "name": "Silicon Valley Auto Show 2027",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/silicon-valley-auto-show-2027-february-19-21-2027"
+    },
+    {
+      "date": "2027-02-20",
+      "name": "Cars & Coffee San Jose",
+      "place": "San Jose",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-san-jose-3rd-saturday-monthly"
+    },
+    {
+      "date": "2027-02-20",
+      "name": "Pre Stage At Marin County Civic Center",
+      "place": "Marin",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
+    },
+    {
+      "date": "2027-02-20",
       "name": "Silicon Valley Auto Show 2027",
       "place": "Bay Area",
       "source": "bayareamotorevents",
