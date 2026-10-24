@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 101,
+  "count": 106,
   "events": [
     {
       "date": "2026-10-24",
@@ -705,6 +705,41 @@
     },
     {
       "date": "2027-02-20",
+      "name": "Silicon Valley Auto Show 2027",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/silicon-valley-auto-show-2027-february-19-21-2027"
+    },
+    {
+      "date": "2027-02-21",
+      "name": "Cars & Cabernet At Autovino",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-cabernet-at-autovino-3rd-sunday-monthly"
+    },
+    {
+      "date": "2027-02-21",
+      "name": "Cars Kids & Coffee The Cobra Experience",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-kids-and-coffee-the-cobra-experience-3rd-sunday-monthly"
+    },
+    {
+      "date": "2027-02-21",
+      "name": "Le Pit Club Moraga Pit Stop",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2027-02-21",
+      "name": "Morgan Hill Exotic Cars & Coffee",
+      "place": "Morgan Hill",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/morgan-hill-exotic-cars-and-coffee-3rd-sunday-monthly"
+    },
+    {
+      "date": "2027-02-21",
       "name": "Silicon Valley Auto Show 2027",
       "place": "Bay Area",
       "source": "bayareamotorevents",
