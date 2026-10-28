@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 98,
+  "count": 100,
   "events": [
     {
       "date": "2026-10-29",
@@ -229,10 +229,10 @@
     },
     {
       "date": "2026-11-29",
-      "name": "Loma Mar Motor Gathering",
+      "name": "Loma Mar Motor Gathering Last Sunday Monthly",
       "place": "Bay Area",
       "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly"
+      "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly-"
     },
     {
       "date": "2026-12-05",
@@ -397,10 +397,10 @@
     },
     {
       "date": "2026-12-27",
-      "name": "Loma Mar Motor Gathering",
+      "name": "Loma Mar Motor Gathering Last Sunday Monthly",
       "place": "Bay Area",
       "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly"
+      "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly-"
     },
     {
       "date": "2026-12-31",
@@ -565,10 +565,10 @@
     },
     {
       "date": "2027-01-31",
-      "name": "Loma Mar Motor Gathering",
+      "name": "Loma Mar Motor Gathering Last Sunday Monthly",
       "place": "Bay Area",
       "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly"
+      "url": "https://bayareamotorevents.com/events/loma-mar-motor-gathering-last-sunday-monthly-"
     },
     {
       "date": "2027-02-06",
@@ -688,6 +688,20 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/silicon-valley-auto-show-2027-february-19-21-2027"
+    },
+    {
+      "date": "2027-02-25",
+      "name": "Cars At The Course",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-at-the-course-last-thursday-monthl"
+    },
+    {
+      "date": "2027-02-25",
+      "name": "PCNC Monthly Meeting",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
     }
   ]
 }
