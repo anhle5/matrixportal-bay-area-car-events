@@ -1,22 +1,8 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 100,
+  "count": 99,
   "events": [
-    {
-      "date": "2026-10-29",
-      "name": "Cars At The Course",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/cars-at-the-course-last-thursday-monthl"
-    },
-    {
-      "date": "2026-10-29",
-      "name": "PCNC Monthly Meeting",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
-    },
     {
       "date": "2026-11-01",
       "name": "Ggc Cars & Coffee Moss Landing November",
@@ -702,6 +688,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
+    },
+    {
+      "date": "2027-02-27",
+      "name": "Cars & Coffee Livermore",
+      "place": "Livermore",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
     }
   ]
 }
