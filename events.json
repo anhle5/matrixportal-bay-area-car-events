@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 90,
+  "count": 97,
   "events": [
     {
       "date": "2026-11-21",
@@ -44,6 +44,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2026-11-22",
+      "name": "San Francisco Ocean Beach Hot Rods",
+      "place": "SF",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/san-francisco-ocean-beach-hot-rods-november-22-2026"
     },
     {
       "date": "2026-11-26",
@@ -632,6 +639,48 @@
       "place": "Marin",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pre-stage-at-marin-county-civic-center-3rd-saturday-monthly"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Cars & Cabernet At Autovino",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-cabernet-at-autovino-3rd-sunday-monthly"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Cars Kids & Coffee The Cobra Experience",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-kids-and-coffee-the-cobra-experience-3rd-sunday-monthly"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Csrg David Love Historic Car Races 2027",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/csrg-david-love-historic-car-races-2027-march-19-21-2027"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Goodguys 43rd All American Get Together",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/goodguys-43rd-all-american-get-together-march-20-21-2027"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Le Pit Club Moraga Pit Stop",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/le-pit-club-moraga-pit-stop-every-sunday"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Morgan Hill Exotic Cars & Coffee",
+      "place": "Morgan Hill",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/morgan-hill-exotic-cars-and-coffee-3rd-sunday-monthly"
     }
   ]
 }
