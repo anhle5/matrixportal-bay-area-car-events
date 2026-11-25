@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "source": "https://bayareamotorevents.com/sitemap.xml",
-  "count": 90,
+  "count": 91,
   "events": [
     {
       "date": "2026-11-26",
@@ -632,6 +632,13 @@
       "place": "Morgan Hill",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/morgan-hill-exotic-cars-and-coffee-3rd-sunday-monthly"
+    },
+    {
+      "date": "2027-03-25",
+      "name": "PCNC Monthly Meeting",
+      "place": "Bay Area",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
     }
   ]
 }
