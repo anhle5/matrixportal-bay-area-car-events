@@ -1,15 +1,8 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "source": "https://bayareamotorevents.com/sitemap.xml",
   "count": 91,
   "events": [
-    {
-      "date": "2026-11-26",
-      "name": "PCNC Monthly Meeting",
-      "place": "Bay Area",
-      "source": "bayareamotorevents",
-      "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
-    },
     {
       "date": "2026-11-28",
       "name": "Cars & Coffee Livermore",
@@ -639,6 +632,13 @@
       "place": "Bay Area",
       "source": "bayareamotorevents",
       "url": "https://bayareamotorevents.com/events/pcnc-monthly-meeting-last-thursday-monthl"
+    },
+    {
+      "date": "2027-03-27",
+      "name": "Cars & Coffee Livermore",
+      "place": "Livermore",
+      "source": "bayareamotorevents",
+      "url": "https://bayareamotorevents.com/events/cars-and-coffee-livermore-4th-saturday-monthly"
     }
   ]
 }
